@@ -21,7 +21,7 @@ public class MainSystem {
                 break;
             case 2:
                 // Call the ReceptionistLogin class to handle receptionist login
-                Reception.main(args);
+                Hotel.Reception.main(args);
                 break;
             case 3:
                 // Call the HotelInfo class to display hotel information

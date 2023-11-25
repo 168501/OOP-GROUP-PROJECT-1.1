@@ -11,9 +11,9 @@ IV.Employee Details
 V.Supply details
 VI.	Exit the system
 
-2)	Reception Class:
+2)	Hotel.Reception Class:
 
-The Reception class handles operations related to guest check-in and check-out.
+The Hotel.Reception class handles operations related to guest check-in and check-out.
 It interacts with text files to manage reservations and current guest information.
 It logs check-in and check-out events in the logs.txt file.
 3)	Reservation Class:
@@ -30,7 +30,7 @@ ReceptionistLogin Class:
 
 The ReceptionistLogin class handles the login functionality for receptionists.
 It prompts for a password and grants access to receptionist operations if the password is correct.
-It calls the Reception class for receptionist tasks.
+It calls the Hotel.Reception class for receptionist tasks.
 5)	HotelInfo Class:
 
 This class displays information about the hotel.
