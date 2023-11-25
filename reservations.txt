@@ -1,0 +1,8 @@
+Guest ID: 1
+Name: steve
+Phone Number: 0715680819
+Room Type: Duplex (Rate per day: $2000)
+Check-in Date: 2021-7-21
+Length of Stay: 2 days
+Total Cost: $4000.0
+
